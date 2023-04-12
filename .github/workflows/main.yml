@@ -84,7 +84,7 @@ jobs:
 
 
 
-        NGROK_AUTH_TOKEN: ${{ secrets.NGROK_TOKEN }}
+        NGROK_TOKEN: ${{ secrets.NGROK_TOKEN }}
 
 
 
