@@ -72,7 +72,7 @@ jobs:
 
 
 
-      run: .\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
+      run: .\ngrok\ngrok.exe authtoken $Env:2OJTmTFO7ou3lYkMWfTXxMuZgVQ_2wEjknv1QxP9NgFNJRsa3
 
 
 
@@ -84,7 +84,7 @@ jobs:
 
 
 
-        NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
+        NGROK_AUTH_TOKEN: ${{ secrets.2OJTmTFO7ou3lYkMWfTXxMuZgVQ_2wEjknv1QxP9NgFNJRsa3 }}
 
 
 
